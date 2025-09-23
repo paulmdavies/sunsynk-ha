@@ -1,0 +1,13 @@
+{
+  "_checkout": "2021.1.1",
+  "_output_dir": "/home/paul/dev/sunsynk-ha",
+  "_repo_dir": "/home/paul/.cookiecutters/cookiecutter-homeassistant-custom-component",
+  "_template": "git@github.com:oncleben31/cookiecutter-homeassistant-custom-component.git",
+  "class_name_prefix": "SunsynkHa",
+  "domain_name": "sunsynk_ha",
+  "friendly_name": "SunSynk",
+  "github_user": "paulmdavies",
+  "project_name": "sunsynk-ha",
+  "test_suite": "yes",
+  "version": "0.0.0"
+}

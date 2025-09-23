@@ -1,0 +1,10 @@
+{
+  "domain": "sunsynk_ha",
+  "name": "SunSynk",
+  "documentation": "https://github.com/paulmdavies/sunsynk-ha",
+  "issue_tracker": "https://github.com/paulmdavies/sunsynk-ha/issues",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@paulmdavies"],
+  "requirements": []
+}
